@@ -501,7 +501,7 @@ public class CircularMusicProgressBar extends android.support.v7.widget.AppCompa
         mBitmapShader.setLocalMatrix(mShaderMatrix);
     }
 
-    public void setAnimationDuraction(int duration) {
+    public void setAnimationDuration(int duration) {
         mValueAnimator.setDuration(duration);
     }
 
